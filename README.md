@@ -1,4 +1,4 @@
-# Finanseer
+# FinApp
 
 A financial dashboard for visualising KPIs, revenue, expenses, products, and transactions — with a linear regression model for revenue predictions.
 
